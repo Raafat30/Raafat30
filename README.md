@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raafat30
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning javasript
-- 💞️ I’m looking to collaborate on learn
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on learn code
 - 📫 How to reach me 
 
 <!---
