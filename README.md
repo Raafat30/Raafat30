@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaafatZid
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and c#
 - 💞️ I’m looking to collaborate on learn code
 - 📫 How to reach me 
 
